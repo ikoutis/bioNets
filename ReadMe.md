@@ -15,7 +15,7 @@ i. Calculate Pearson correlation on gene expression.<br />
 ii. Convert negative values into positive.<br />
 iii. Power the network (element wise) so that the underlying network becomes scale-free.<br />
 iv. Add topological overlap matrix (TOM) to the network.<br />
-v. Perform clustering.\<br />
+v. Perform clustering.<br />
 vi. Perform GO.<br /> 
 
 ### Experiment_Alpha.R includes the following steps:
